@@ -11,7 +11,7 @@ public class HelloApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("Hello Spring Boot 2.0!");
+		System.out.println("Hello Spring Boot 2.1!");
 	}
 
 }
